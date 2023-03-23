@@ -1,4 +1,4 @@
-# PyBooks
+# Sentiment Analysis for British Airways airline
 
 Sentiment analysis is a type of natural language processing that involves analyzing written or spoken language to determine the emotional tone of the text.
 In the case of airlines, sentiment analysis can be used to analyze customer feedback, such as reviews, social media posts, and surveys, to determine the overall sentiment of customers towards the airline.
